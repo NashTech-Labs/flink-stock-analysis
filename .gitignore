@@ -4,3 +4,5 @@ target/
 .cache
 .classpath
 .settings
+.idea/
+idea.sbt
